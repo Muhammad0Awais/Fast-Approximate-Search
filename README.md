@@ -9,4 +9,4 @@ This is what we are going to do in this repo:
 
 1. Build a *navigable* small-world graph;
 2. Build a k-d tree;
-3. Try `[Annoy](https://github.com/spotify/annoy)`. 
+3. Try [Annoy](https://github.com/spotify/annoy). 
